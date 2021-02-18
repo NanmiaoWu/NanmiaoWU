@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![lol](NanmiaoWU/Anim/lol.gif)
+
 <!--
 **NanmiaoWu/NanmiaoWU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
